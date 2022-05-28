@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Wuhan, Hubei, China
+- 🌱 I’m currently learning Javascript
+- 😄 Call me Jepson
+
+
+
 <!--
 **SZP1206/szp1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
