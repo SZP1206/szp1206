@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Wuhan, Hubei, China
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript/Linux
 - 😄 Call me Jepson
 
 
